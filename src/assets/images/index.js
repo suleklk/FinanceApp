@@ -1,0 +1,17 @@
+export const HomeIcon = require('./home.png');
+export const HomeActiveIcon = require('./home-active.png');
+export const AddIcon = require('./plus-icon.png');
+export const AddActiveIcon = require('./full-plus-icon.png');
+export const UserIcon = require('./user.png');
+export const UserActiveIcon = require('./user-active.png');
+export const Search = require('./search.png');
+export const SearchActive = require('./search-active.png');
+export const makeUp = require('./make-up.png');
+export const market = require('./market.png');
+export const personalCare = require('./personal-care.png');
+export const stationary = require('./stationary.png');
+export const gas = require('./gas.png');
+export const food = require('./food.png');
+export const clothes = require('./clothes.png');
+export const leftIcon = require('./left-icon.png');
+export const rightIcon = require('./right-icon.png');
